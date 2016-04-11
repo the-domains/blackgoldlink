@@ -1,6 +1,6 @@
 name: BLACKGOLDLINK
 favicon: null
-layout_spectrum: 0.6853880775161088
+layout_spectrum: 1
 typography_spectrum: 0.42284974036738276
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
